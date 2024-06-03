@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+combined.log
+
+# Playwright
+playwright-report/
+test-results/
+trace.zip
+trace/
+
+# Environment files
+.env
+
+# Output files
+results.xml
